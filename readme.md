@@ -56,7 +56,7 @@ To use the script, follow these steps:
 
 1. Save your XML file to a known location (e.g., `C:\Users\XXXX\Downloads\XXXX.xml`).
 2. Modify the script if necessary to change the input XML file path and output text file path.
-3. Run the script.
+3. Run the script. 
 
 ```python
 if __name__ == "__main__":
